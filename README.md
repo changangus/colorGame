@@ -1,6 +1,8 @@
-# changangus.github.io
-An RGB color guessing game.
+# RGB Color Game
 
-Simple JS, HTML, CSS.
+An RGB color guessing game to help you better understand the RGB color scale.
+Have fun!
 
-Hosted: https://obscure-anchorage-18685.herokuapp.com/
+Vanilla JS, HTML, CSS.
+
+Hosted: https://codepen.io/changangus/pen/gOrMXqq
